@@ -1,3 +1,8 @@
 # Dandi Rizky Website
+> Assignment Example for My Personal Website
 
-# Pages
+## Links/URLs:
+
+## Pages
+- Home
+- Contact
