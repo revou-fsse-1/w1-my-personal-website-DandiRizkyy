@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(237, 187, 165);
+}
+
+h1 {
+    color: rgb(126, 74, 238);
+}
+
+a {
+    color: crimson; 
+}
+
+button {
+    background-color: #0088a3;
+    border-radius: 0.2rem;
+    border-style: none;
+    color: #e0faff;
+    cursor: pointer;
+    font-size: 20px;
+}
