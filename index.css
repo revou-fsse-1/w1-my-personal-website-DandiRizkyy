@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
 
+header {
+    border: 3px solid black;
+}
+
+h1 {
+    position: relative;  
+    right: -1rem;
+    color: rgb(126, 74, 238);
+}
+
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(219, 233, 254); 
@@ -17,7 +27,7 @@ body {
 
 .my-photo-1 {
     position: relative;
-    border-radius: 50rem;
+    bottom: -27rem;
     width: 40rem;
     height: 40rem;
     right: -35rem;
@@ -31,13 +41,8 @@ body {
     font-size: 40px;
 }
 
-h1 {
-    color: rgb(126, 74, 238);
-}
 
-header {
-    border: 3px solid black;
-}
+
 
 .navigation ul li {
     color: crimson;
@@ -51,10 +56,14 @@ header {
 }
 
 button {
+    position: relative;
+    top: -40rem;
+    right: -37.7rem;
     background-color: #0088a3;
     border-radius: 0.2rem;
     border-style: none;
     color: #e0faff;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 40px;
 }
+
