@@ -230,6 +230,18 @@ button {
   margin: 20px auto;
 }
 
+.intro {
+  position: absolute;
+  bottom: 10rem;
+  width: 50rem;
+  height: 10rem;
+  right: 29rem;
+  margin: 20px auto;
+  z-index: 100;
+  font-size: 24px;
+  text-align: justify;
+}
+
 button:hover {
   background-color: rgb(240, 158, 52);
   color: #151414;
