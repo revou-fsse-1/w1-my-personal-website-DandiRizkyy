@@ -10,23 +10,37 @@ This website is inspired from game called NieR Automata, one of the most best ga
 
 <p>This website is made from html, css and simple javascript.</p>
 
-## Links/URL's to My Website :
+## Links/URL's to My Website 🔗 :
 
 - Here's the link : https://dandirizkyw1.netlify.app/
 
-## What's Inside?
+---
+
+## What's Inside? 👀
+
+---
 
 This website has 3 main sections:
 
 1. Home
    ![home](/assets/home1.png)
    ![home](/assets/home2.png)
+
+   In this section includes header, nav, text, anchor, background images, images, and button.
+
 2. Contact
    ![contact](/assets/contacts.png)
+   In this section includes header, nav, anchor, background images, images, links and footer.
 3. About
    ![about](/assets/about.png)
+   In this section includes header, nav, anchor, background images, images, paragraph text and footer.
+   - All of them wrapped together with CSS.
 
-## Technologies
+---
+
+## Technologies 💻
+
+---
 
 1. HTML <p><img height="30" title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
 
@@ -34,7 +48,11 @@ This website has 3 main sections:
 
 3. JavaScript <p><img height="30" title="Javascript" alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 
+---
+
 ## Color References 🎨
+
+---
 
 - Sashay Sand
 - Rosy Brown
