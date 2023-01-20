@@ -19,8 +19,12 @@ This website is inspired from game called NieR Automata, one of the most best ga
 This website has 3 main sections:
 
 1. Home
+   ![home](/assets/home1.png)
+   ![home](/assets/home2.png)
 2. Contact
+   ![contact](/assets/contacts.png)
 3. About
+   ![about](/assets/about.png)
 
 ## Technologies
 
