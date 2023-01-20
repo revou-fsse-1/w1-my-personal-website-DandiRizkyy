@@ -195,6 +195,41 @@ button {
   font-family: "Poppins", sans-serif;
 }
 
+.photo-about {
+  position: absolute;
+  bottom: -37rem;
+  width: 40rem;
+  height: 40rem;
+  right: -1rem;
+}
+
+.yorha-ui {
+  position: absolute;
+  bottom: -9rem;
+  width: 60rem;
+  right: 23rem;
+  border: 1px solid beige;
+  border-radius: 2rem;
+}
+
+.nines {
+  position: absolute;
+  bottom: 23rem;
+  width: 10rem;
+  height: 10rem;
+  right: 26rem;
+  margin: 20px auto;
+}
+
+.a-two {
+  position: absolute;
+  bottom: 23rem;
+  width: 10rem;
+  height: 10rem;
+  right: 70rem;
+  margin: 20px auto;
+}
+
 button:hover {
   background-color: rgb(240, 158, 52);
   color: #151414;
@@ -212,5 +247,5 @@ button:hover {
 
 .footer3 {
   position: relative;
-  bottom: -28rem;
+  bottom: -69rem;
 }
