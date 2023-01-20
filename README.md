@@ -34,7 +34,7 @@ This website has 3 main sections:
 3. About
    ![about](/assets/about.png)
    In this section includes header, nav, anchor, background images, images, paragraph text and footer.
-   - All of them wrapped together with CSS.
+   - All of them wrapped together with CSS and Javascript.
 
 ---
 
