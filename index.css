@@ -24,6 +24,10 @@
   text-decoration: none;
 }
 
+a:hover {
+  background-color: rgb(234, 109, 109);
+}
+
 a {
   text-decoration: none;
   color: black;
@@ -83,28 +87,55 @@ body {
   border-radius: 1rem;
 }
 
+.my-photo-5 {
+  position: absolute;
+  bottom: 17.5rem;
+  width: 10rem;
+  height: 5rem;
+  right: 55rem;
+}
+
+.my-photo-6 {
+  transform: scaleX(-1);
+  position: absolute;
+  bottom: 17.5rem;
+  width: 10rem;
+  height: 5rem;
+  right: 19rem;
+}
+
 .p1 {
   display: flex;
   position: relative;
   top: -40rem;
   font-family: "Poppins", sans-serif;
   font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 30px;
+  letter-spacing: 0.7rem;
+  text-shadow: 0.2rem 0.2rem 0 rgba(77, 73, 62, 0.3);
 }
 
 button {
   position: relative;
-  top: -40rem;
-  right: -37.7rem;
-  background-color: #0088a3;
-  border-radius: 0.2rem;
+  top: -39rem;
+  right: -31rem;
+  background-color: #e82d2d;
+  border-radius: 10rem;
   border-style: none;
-  color: #e0faff;
+  color: #ffefe0;
   cursor: pointer;
   font-size: 40px;
   font-family: "Poppins", sans-serif;
 }
 
+button:hover {
+  background-color: antiquewhite;
+  color: #100f0f;
+}
+
 .footer {
   position: relative;
-  bottom: -9rem;
+  bottom: -13rem;
 }
