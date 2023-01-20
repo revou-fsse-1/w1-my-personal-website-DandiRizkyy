@@ -2,7 +2,7 @@
 
 > Assignment for Week 1 Personal Website
 
-## Description
+## Description ✍🏻
 
 This website is inspired from game called NieR Automata, one of the most best game of all times :)
 
@@ -10,7 +10,7 @@ This website is inspired from game called NieR Automata, one of the most best ga
 
 <p>This website is made from html, css and simple javascript.</p>
 
-## Links/URLs to My Website:
+## Links/URL's to My Website :
 
 - Here's the link : https://dandirizkyw1.netlify.app/
 
@@ -22,4 +22,18 @@ This website has 3 main sections:
 2. Contact
 3. About
 
-## Technology
+## Technologies
+
+1. HTML <p><img height="30" title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
+
+2. CSS <p><img height="30" title="CSS" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
+
+3. JavaScript <p><img height="30" title="Javascript" alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+
+## Color References 🎨
+
+- Sashay Sand
+- Rosy Brown
+- Red
+
+It's mostly bright brown colors.
